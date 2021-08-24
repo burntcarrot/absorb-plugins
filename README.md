@@ -17,4 +17,4 @@ Didn't check out the project yet? Check it out [here](https://github.com/burntca
 
 ## Creating Plugins
 
-An extensive guide for creating plugins for `absorb` is available [here](https://github.com/burntcarrot/absorb-plugins/guide.md).
+An extensive guide for creating plugins for `absorb` is available [here](https://github.com/burntcarrot/absorb-plugins/blob/main/guide.md).
